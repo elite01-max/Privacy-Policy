@@ -1,18 +1,18 @@
 Privacy Policy
 
-Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information.
+Your privacy is important to us. This Privacy Policy explains how we protect your personal information.
 
-1. Information Collection
-We collect information when you use our app, including personal data you provide and usage data collected automatically.
+1. No Information Collection
+Our app does not collect any personal data or usage information from users.
 
 2. Use of Information
-The information we collect is used to improve our services and provide personalized content.
+As we do not collect any information, there is no data to use for any purpose.
 
 3. Data Protection
-We implement security measures to protect your personal data from unauthorized access and disclosure.
+Although no data is collected, we implement security measures to ensure the overall protection of the app environment.
 
 4. Third-Party Services
-Our app may use third-party services that have their own privacy policies.
+Our app may use third-party services that have their own privacy policies. Please review their policies to understand how they handle data.
 
 5. Changes to Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
